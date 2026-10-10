@@ -1,16 +1,16 @@
-# 🍔 BiteBox – Restaurant Website (HTML)
+# 🍔 BiteBox – HTML Enhancement
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 ![Level](https://img.shields.io/badge/Level-Beginner-blue?style=for-the-badge)
 
-> An improved single-page restaurant website for **BiteBox**, built using pure HTML.
+> An enhanced single-page restaurant website for **BiteBox**, built using pure HTML with improved structure and additional sections.
 
 ---
 
 ### 📌 Project Overview
-This is the next version of the BiteBox restaurant website.  
-It expands the basic structure with additional sections like Our Story, Chef’s Message, Special Offers, Contact Information, and Customer Notice — all created using fundamental HTML tags.
+This is an enhanced version of the BiteBox restaurant website.  
+It includes a cleaner structure with sections like About, Our Story, Chef’s Message, Featured Dishes, Special Offers, Contact Information, and Customer Notice — all created using fundamental HTML tags.
 
 ---
 
